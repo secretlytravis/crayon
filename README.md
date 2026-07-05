@@ -1,6 +1,6 @@
 # CRAYON 🖍️
 
-*(**C**rayon **R**egulates **A**udio for **Y**ou **O**nline, **N**erds. Yes, it is a GNU-style joke acronym. No, we are not sorry.)*
+*(**C**rayon **R**egulates **A**udio for **Y**ou **O**nline **N**erds. Yes, it is a GNU-style joke acronym. No, we are not sorry.)*
 
 **v0.1.0-alpha.3a**
 A BetterDiscord plugin
