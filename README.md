@@ -59,7 +59,33 @@ Is it fixed now? You better believe it.
 
 You are welcome.
 
-## Install
+## Step zero: you need BetterDiscord first
+
+CRAYON is not a Discord feature. It is not an official anything. It is a
+plugin, and plugins need a plugin loader, and the plugin loader in question
+is called **BetterDiscord**.
+
+Already have it? Already see a "BETTERDISCORD" section sitting in your
+Discord settings? Skip this whole section and go make yourself a sandwich.
+
+Do not have it yet? Here is the drill:
+
+1. Go to [betterdiscord.app](https://betterdiscord.app) and download the installer for your operating system.
+2. Run it. It will find your Discord installation on its own, like a bloodhound that only cares about Electron apps.
+3. Let it install, then fully quit and reopen Discord. Closing it from the system tray, not just Ctrl+R, is the safe move here.
+4. Open Discord settings. See a new **BETTERDISCORD** section in the sidebar, with its own Plugins, Themes, and Custom CSS pages? You are in.
+
+A quick word of honesty, because that is the whole personality of this
+README: BetterDiscord is an unofficial client modification. Discord did not
+make it, Discord has not blessed it, and strictly speaking it lives outside
+what Discord's terms of service want you doing to their client. In practice
+it is extremely widely used and nobody is kicking down doors over it, but
+"extremely popular" and "officially endorsed" are two different sentences.
+Go in with your eyes open.
+
+Once BetterDiscord is running, come back here and keep reading.
+
+## Now, the actual plugin
 
 Drop `CRAYON.plugin.js` into your BetterDiscord plugins folder.
 
