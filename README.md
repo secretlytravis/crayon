@@ -107,15 +107,7 @@ Or flip the toggle in:
 Settings > BetterDiscord > Plugins
 ```
 
-And that is it.
-
-No build step. No dependencies. No npm install. No node_modules folder so large it develops its own weather system.
-
-One file.
-
-Drop it in.
-
-Turn it on.
+And that is it, you're done.
 
 Let the crayon color inside the audio lines.
 
