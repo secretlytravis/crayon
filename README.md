@@ -72,7 +72,7 @@ Do not have it yet? Here is the drill:
 
 1. Go to [betterdiscord.app](https://betterdiscord.app) and download the installer for your operating system.
 2. Run it. It will find your Discord installation on its own, like a bloodhound that only cares about Electron apps.
-3. Let it install, then fully quit and reopen Discord. Closing it from the system tray, not just Ctrl+R, is the safe move here.
+3. Let it install, then fully quit and reopen Discord. Closing it from the system tray or task manager, is the safe move here.
 4. Open Discord settings. See a new **BETTERDISCORD** section in the sidebar, with its own Plugins, Themes, and Custom CSS pages? You are in.
 
 A quick word of honesty, because that is the whole personality of this
